@@ -1,2 +1,2 @@
 # UdacityFEND
-Submission Projects for Udacity Front End Development Certificate
+First two required simple submission projects for the Udacity Front End Development program. 
